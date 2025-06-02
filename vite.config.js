@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
-  base: '/pet-vida-site/', // <== ISSO É ESSENCIAL
+  base: './', // Mudando para caminho relativo
   plugins: [vue()],
   build: {
     outDir: 'dist',
