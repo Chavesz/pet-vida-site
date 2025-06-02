@@ -9,7 +9,7 @@
         <div class="footer-section">
           <h3>Contato</h3>
           <p>Email: contato@petvida.org</p>
-          <p>Telefone: (11) 9999-9999</p>
+          <p>Telefone: (83) 99128-2532</p>
         </div>
         <div class="footer-section">
           <h3>Redes Sociais</h3>
@@ -21,7 +21,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>&copy; 2024 Pet Vida ONG. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Pet Vida ONG. Todos os direitos reservados.</p>
       </div>
     </div>
   </footer>
